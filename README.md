@@ -1,4 +1,4 @@
-# Flame-docs
+# Flame
 
 By using FLAME, you accept its privacy policy. In this policy we have clearly mentioned all information about bot and we have written why we take your data, why we store them and many more.
 
